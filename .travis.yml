@@ -8,7 +8,7 @@ notifications:
     on_failure: always
     recipients:
       - avishaya@amazon.com
-      #- travis-build@platform-notifications.robomaker.aws.a2z.com
+      #- travis-build@platform-notifications.robomaker.aws.a2z.com #
 env:
   global:
     - GITHUB_ACCOUNT=aws-robotics
